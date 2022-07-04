@@ -1,5 +1,6 @@
 # Clonar_Jogo_Kulkis
 Nesta atividade o desafio está sendo clonar jogo chamado Kulkis.
+Atividade ainda está em andamento...
 
 
 <p dir="auto">Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
